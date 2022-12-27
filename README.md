@@ -1,3 +1,8 @@
 # github-final-project
-Test Repo for Coursera Github Course<BR>
-This readme file has been updated
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.<br>
+##Input
+    p, principal amount 
+    t, time period in years 
+    r, annual rate of interest 
+##Output
+    simple interest = ptr
